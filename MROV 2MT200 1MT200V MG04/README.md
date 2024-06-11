@@ -1,4 +1,5 @@
 Конфигурация Middle ROV включает:
-- 3 движителя MUR Thruster 200 (MT200);
+- 2 движителя MUR Thruster 200 (MT200);
+- 1 движителm MUR Thruster 200V (MT200V);
 - 1 захват на коллекторном электромоторе MUR Gripper v4 (MG04);
-![230614 MROV 3MT200 MG4](https://github.com/murproject/MiddleROV/assets/106134147/b39016c2-10bf-4aef-82cb-5e2d44a196ee)
+![MROV 2MT200 MT200V MG04](https://github.com/murproject/MiddleROV/assets/106134147/36ab7b2e-edc8-4cec-bce6-1402be835b18)
